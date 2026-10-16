@@ -36,7 +36,6 @@ Hi! I'm **Jasmin**, a master's student in **Statistics** who enjoys exploring da
 
 </div>
 
-> Feel free to adjust this list to the tools you actually use.
 
 ## 📌 Projects & Learning
 
